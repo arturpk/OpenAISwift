@@ -153,7 +153,7 @@ public enum OpenAIModelType {
 
         /// Snapshot of gpt-4-32 from June 13th 2023. Unlike gpt-4-32k, this model will not receive updates, and will be deprecated 3 months after a new version is released.
         /// > Model Name: gpt-4-32k
-        case gpt4_32k_0314 = "gpt-4-32k-0613"
+        case gpt4_32k_0613 = "gpt-4-32k-0613"
 
     }
     
